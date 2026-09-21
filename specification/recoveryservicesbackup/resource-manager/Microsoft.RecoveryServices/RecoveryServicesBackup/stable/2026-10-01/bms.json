@@ -9790,7 +9790,7 @@
         "name": {
           "type": "string"
         },
-        "diskSizeInGB": {
+        "diskSizeInGb": {
           "type": "integer",
           "format": "int32",
           "description": "Size of the disk in GB."
